@@ -1,3 +1,5 @@
+# NOTICE: This is on hold until I can find more time and make more progress on Rhombus.
+
 # Veronique
 An emulator for Quinn Dunki's Veronica 6502 computer
 
